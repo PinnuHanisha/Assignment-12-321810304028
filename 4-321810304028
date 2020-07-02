@@ -1,0 +1,6 @@
+d1={'hani':1,'vinni':7,'anki':8}
+print(d1)
+d1['hani']=2
+d1['vinni']=4
+d1['anki']=5
+print(d1)
